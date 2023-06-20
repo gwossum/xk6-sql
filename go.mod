@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-sql
+module github.com/gwossum/xk6-sql-spanner
 
 go 1.19
 
